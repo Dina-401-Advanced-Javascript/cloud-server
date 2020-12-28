@@ -1,0 +1,27 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": "## Phase 1 Requirements From a business requirements standpoint, we will be building a basic Express server using best practices, including server modularization, use of middleware, and tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dina-401-Advanced-Javascript/basic-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dina-401-Advanced-Javascript/basic-express-server/issues"
+  },
+  "homepage": "https://github.com/Dina-401-Advanced-Javascript/basic-express-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.0.1"
+  }
+}
