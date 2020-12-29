@@ -7,6 +7,7 @@
 ### Links and Resources
 
 - [GUI cloud server](http://cloudserver-env.eba-piptpmva.us-east-2.elasticbeanstalk.com/person?name=dina)
+
 - [CLI cloud server](http://cloud-server-cli.eba-kzs7trzg.us-west-2.elasticbeanstalk.com/person?name=dina)
 
 ### Setup
