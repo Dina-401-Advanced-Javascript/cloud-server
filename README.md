@@ -1,6 +1,6 @@
-# LAB - Class 02
+# LAB - Class 16
 
-## Project: Basic Express Server
+## Project: Basic Express Server on AWS
 
 ### Author: Dina Ayoub
 
