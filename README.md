@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions) (GitHub Actions)
-- [back-end server url on heroku](https://dina-basic-express-server.herokuapp.com/)
+- [GUI cloud server](http://cloudserver-env.eba-piptpmva.us-east-2.elasticbeanstalk.com/person?name=dina)
+- [CLI cloud server](http://cloud-server-cli.eba-kzs7trzg.us-west-2.elasticbeanstalk.com/person?name=dina)
 
 ### Setup
 
@@ -21,7 +21,7 @@
 
 #### How to use your lib
 
-- go to the heroku dployment and add /person?name=dina at the end to see the API working.
+- go to the two AWS deployments and add /person?name=dina at the end to see the API working.
 - go to just /person to get an internal server error triggered by our validator
 - go to / to see a not found error triggered by our error handling for unknown routes.
 
